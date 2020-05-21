@@ -2,8 +2,9 @@
 
 This GRASS GIS addon is the iterative version of [`r.accumulate`](https://github.com/OSGeo/grass-addons/tree/master/grass7/raster/r.accumulate). It will be integrated into `r.accumulate` and deprecate [`r.lfp`](https://github.com/OSGeo/grass-addons/tree/master/grass7/raster/r.lfp) soon.
 
-## Test data
+## Dear Reviewers of ENVSOFT_2020_505
 
+For some reason, Mendeley's data upload did not work successfully and [my dataset page](https://data.mendeley.com/datasets/4zv566xmvw/draft?a=914c7442-264c-4002-ace8-1bb0426c38d8) lists no data files. Sorry for the inconvenience. Please use the following files for your review:
 * [`create_test_location.sh`](https://isnew.info/data/lfp/create_test_location.sh)
 * [`grassdata.zip`](https://isnew.info/data/lfp/grassdata.zip) (5.3 GB)
 * [`analysis.zip`](https://isnew.info/data/lfp/analysis.zip) (397 MB)
