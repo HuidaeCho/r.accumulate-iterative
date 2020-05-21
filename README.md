@@ -4,5 +4,5 @@ This GRASS GIS addon is the iterative version of [`r.accumulate`](https://github
 
 ## Test data
 
-* [`analysis.zip`](https://isnew.info/data/lfp/analysis.zip)
-* [`grassdata.zip`](https://isnew.info/data/lfp/grassdata.zip)
+* [`analysis.zip`](https://isnew.info/data/lfp/analysis.zip) (397 MB)
+* [`grassdata.zip`](https://isnew.info/data/lfp/grassdata.zip) (5.3 GB)
