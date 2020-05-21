@@ -19,3 +19,10 @@ System requirements: [GRASS GIS 7.8.3](https://grass.osgeo.org/) on Linux; this 
    ```bash
    grass78 -c test --exec ./create_test_location.sh
    ```
+
+It will create five mapsets in the test location:
+1. `PERMANENT`: Not used
+2. `lfp-GA-hdd`: All input rasters and vectors for Georgia and results from the Linux HDD system reside in this mapset; the `lfp-GA-ssd` mapset will have access to these maps
+3. `lfp-GA-ssd`: Results from the Linux SSD and Windows systems; in addition, you will have access to the maps in `lfp-GA-hdd` from this mapset
+4. `lfp-TX-hdd`: Similar to `lfp-GA-hhd`, all input maps for Texas and results from the Linux HDD system are stored in this mapset
+5. `lfp-TX-ssd`: Results from the Linux SSD and Windows systems; again, you will have access to the maps in `lfp-TX-hdd` from here
