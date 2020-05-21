@@ -12,8 +12,9 @@ This GRASS GIS addon is the iterative version of [`r.accumulate`](https://github
 
 System requirements: [GRASS GIS 7.8.3](https://grass.osgeo.org/) on Linux; this addon was not tested on Windows
 
-1. Download [`create_test_location.sh`](https://isnew.info/data/lfp/create_test_location.sh), [`grassdata.zip`](https://isnew.info/data/lfp/grassdata.zip) and [`analysis.zip`](https://isnew.info/data/lfp/analysis.zip) in the same directory
-2. Run `grass78`
+1. Download [`create_test_location.sh`](https://isnew.info/data/lfp/create_test_location.sh), [`grassdata.zip`](https://isnew.info/data/lfp/grassdata.zip), and [`analysis.zip`](https://isnew.info/data/lfp/analysis.zip) in the same directory
+2. Unzip [`grassdata.zip`](https://isnew.info/data/lfp/grassdata.zip) and [`analysis.zip`](https://isnew.info/data/lfp/analysis.zip)
+3. Run `grass78`
    ```bash
    grass78 -c test --exec ./create_test_location.sh
    ```
