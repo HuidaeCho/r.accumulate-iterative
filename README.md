@@ -28,7 +28,7 @@ Five mapsets and 1,616 maps will be created in the test location:
 5. `lfp-GA-archydropro`: Results for Georgia from the Windows system (101 maps); you will have access to the maps in `lfp-GA-input`
 6. `lfp-TX-input`: Input rasters and vectors for Texas (305 maps)
 7. `lfp-TX-hdd`: Results for Texas from the Linux HDD system (200 maps); you will have access to the maps in `lfp-TX-input`
-8. `lfp-TX-ssd`: Results for Texas from the Linux SSD (200 maps); you will have access to the maps in `lfp-TX-input`
+8. `lfp-TX-ssd`: Results for Texas from the Linux SSD system (200 maps); you will have access to the maps in `lfp-TX-input`
 9. `lfp-TX-archydropro`: Results for Texas from the Windows system (101 maps); you will have access to the maps in `lfp-TX-input`
 
 ## Maps
