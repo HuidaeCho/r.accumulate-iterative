@@ -322,8 +322,8 @@ static void find_up(struct cell_map *dir_buf, struct raster_map *accum_buf,
                     double length =
                         down_length +
                         (i *
-                         j ? diag_length : (i ? window.
-                                            ns_res : window.ew_res));
+                         j ? diag_length : (i ? window.ns_res : window.
+                                            ew_res));
 
                     up_accum[*nup].row = row + i;
                     up_accum[*nup].col = col + j;
