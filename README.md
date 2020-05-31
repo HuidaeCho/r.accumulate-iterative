@@ -5,9 +5,9 @@ This GRASS GIS addon is the iterative version of [`r.accumulate`](https://grass.
 ## Dear the reviewers of ENVSOFT_2020_505
 
 For some reason, Mendeley's data upload did not work successfully and [my dataset page](https://data.mendeley.com/datasets/4zv566xmvw/draft?a=914c7442-264c-4002-ace8-1bb0426c38d8) lists no data files at all. Sorry for the inconvenience. Please use the following files for your review:
-* [`create_test_location.sh`](https://isnew.info/data/lfp/create_test_location.sh)
-* [`grassdata.zip`](https://isnew.info/data/lfp/grassdata.zip) (5.3 GB)
-* [`analysis.zip`](https://isnew.info/data/lfp/analysis.zip) (397 MB)
+* [`create_test_location.sh`](https://data.isnew.info/lfp/create_test_location.sh)
+* [`grassdata.zip`](https://data.isnew.info/lfp/grassdata.zip) (5.3 GB)
+* [`analysis.zip`](https://data.isnew.info/lfp/analysis.zip) (397 MB)
 
 ## How to create a test GRASS GIS location
 
