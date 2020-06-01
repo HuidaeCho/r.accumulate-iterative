@@ -1,6 +1,6 @@
 # r.accumulate-iterative
 
-This GRASS GIS addon is the iterative version of [`r.accumulate`](https://grass.osgeo.org/grass78/manuals/addons/r.accumulate.html). It will be integrated into [`r.accumulate`](https://grass.osgeo.org/grass78/manuals/addons/r.accumulate.html) and deprecate [`r.lfp`](https://grass.osgeo.org/grass78/manuals/addons/r.lfp.html) soon.
+This GRASS GIS addon is the iterative version of [`r.accumulate`](https://grass.osgeo.org/grass78/manuals/addons/r.accumulate.html). It is integrated into [`r.accumulate`](https://grass.osgeo.org/grass78/manuals/addons/r.accumulate.html) (default algorithm; `-r` flag for the recursive algorithm) and will deprecate [`r.lfp`](https://grass.osgeo.org/grass78/manuals/addons/r.lfp.html) soon.
 
 ## Dear the reviewers of ENVSOFT_2020_505
 
